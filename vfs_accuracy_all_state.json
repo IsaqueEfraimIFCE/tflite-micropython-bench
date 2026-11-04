@@ -1,0 +1,23 @@
+{
+  "models": [
+    {
+      "model_number": 107,
+      "model": "MobileNetV1[107]_uint8.tflite",
+      "alpha": 0.25,
+      "resolution": 32,
+      "arena_bytes": 85742,
+      "validation_txt": "C:\\Users\\Isaque\\Desktop\\TFLite MicroPython\\models\\data\\validation_images\\validacao_indoor_32_3-20260428T030919Z-3-001\\validacao_indoor_32_3\\classes_validacao.txt",
+      "validation_limit_images": 1,
+      "softmax_patch_count": 0,
+      "chunks_done": 0,
+      "chunks_total": 1,
+      "eval_count": 0,
+      "correct_y": 0,
+      "correct_x": 0,
+      "accy": "",
+      "accx": "",
+      "status": "partial"
+    }
+  ],
+  "chunks": []
+}

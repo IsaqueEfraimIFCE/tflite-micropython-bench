@@ -1,0 +1,4 @@
+timestamp,cpu_mhz,cpu_hz_actual,arena,image_stride,iters,status,avg_invoke_us,min_invoke_us,max_invoke_us,marker_pin,idle_ms,file_bytes,wifi,ble,led,error
+2026-06-30 12:42:27,240,240000000,150000,3072,200,ok,67580,67555,67850,21,2000,313504,off,,low,
+2026-06-30 12:42:56,160,160000000,150000,3072,200,ok,99865,99838,100135,21,2000,313504,off,,low,
+2026-06-30 12:43:46,80,80000000,150000,3072,200,ok,196973,196933,197188,21,2000,313504,off,,low,

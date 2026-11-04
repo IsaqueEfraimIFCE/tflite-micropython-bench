@@ -1,0 +1,2 @@
+model_number,model,alpha,resolution,status,eval_count,correct_y,correct_x,accy,accx,chunks_done,chunks_total,arena_bytes
+107,MobileNetV1[107]_uint8.tflite,0.25,32,partial,0,0,0,,,0,1,85742
